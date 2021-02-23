@@ -53,10 +53,10 @@ The project has been divided into various steps which include:
 <a id='results'></a>
 ## Results
 
-The SAS code utilized for data analysis can be accessed by clicking here - [SAS Code](https://github.com/HShamilSamsudeen/Business_Startup_Analytics/blob/main/Canadian_Childrens_Retail_Market_Analysis.sas).
+The SAS code utilized for data analysis can be accessed by clicking here - [SAS Code](https://github.com/HShamilSamsudeen/Business_Startup_Analytics/blob/main/Canadian_Childrens_Retail_Market_Analysis.sas)
 
-The results have been documented in the results presentation. To access them please click - [Canadian_Childrens_Retail_Market_Analysis.pdf](https://github.com/HShamilSamsudeen/Business_Startup_Analytics/blob/main/Canadian%20Children's%20Retail%20Market%20Analysis.pdf).
+The results have been documented in the results presentation. To access them please click - [Canadian_Childrens_Retail_Market_Analysis.pdf](https://github.com/HShamilSamsudeen/Business_Startup_Analytics/blob/main/Canadian%20Children's%20Retail%20Market%20Analysis.pdf)
 
-Data visualizations were created using Tableau. The Tableau workbook can be downloaded here - [Canadian_Childrens_Retail_Market_Analysis.twbx](https://github.com/HShamilSamsudeen/Business_Startup_Analytics/blob/main/Canadian_Childrens_Retail_Market_Analysis.twbx).
+Data visualizations were created using Tableau. The Tableau workbook can be downloaded here - [Canadian_Childrens_Retail_Market_Analysis.twbx](https://github.com/HShamilSamsudeen/Business_Startup_Analytics/blob/main/Canadian_Childrens_Retail_Market_Analysis.twbx)
 
-To access the raw output files used for visualizations, please [click here](https://github.com/HShamilSamsudeen/Business_Startup_Analytics/tree/main/output_data).
+To access the raw output files used for visualizations, please [click here](https://github.com/HShamilSamsudeen/Business_Startup_Analytics/tree/main/output_data)
