@@ -33,11 +33,11 @@ In general, this particular analysis looks at different components of the Canadi
 
 The data has been provided by Statistics Canada. While the Canadian census caters data across multiple variables, specific data files were utilized in order to answer business objectives.
 
-Collectively, 4 data files have been utilized and the raw data files can be accessed here [Raw Data](https://github.com/ankit-dhall/canadian_children_retail_market_analysis/tree/main/raw_data)
+Collectively, 4 data files have been utilized and the raw data files can be accessed here - [Raw Data](https://github.com/HShamilSamsudeen/Business_Startup_Analytics/tree/main/raw_data)
 
-These data files have been extensively cleaned on MS Excel and SAS and used for further analysis. The cleaned data files can be found here [Cleaned Data](https://github.com/ankit-dhall/canadian_children_retail_market_analysis/tree/main/cleaned_data)
+These data files have been extensively cleaned on MS Excel and SAS and used for further analysis. The cleaned data files can be found here - [Cleaned Data](https://github.com/HShamilSamsudeen/Business_Startup_Analytics/tree/main/cleaned_data)
 
-Finally, the output files generated as a result of the analysis done on SAS have been exported and can be accessed here. [Output Data](https://github.com/ankit-dhall/canadian_children_retail_market_analysis/tree/main/output_data)
+Finally, the output files generated as a result of the analysis done on SAS have been exported and can be accessed here - [Output Data](https://github.com/HShamilSamsudeen/Business_Startup_Analytics/tree/main/output_data)<br>
 These files were further used for creating visualizations using Tableau
 
 <a id='technicaloverview'></a>
@@ -53,10 +53,10 @@ The project has been divided into various steps which include:
 <a id='results'></a>
 ## Results
 
-The SAS code utilized for data analysis can be accessed by clicing here [SAS Code](https://github.com/HShamilSamsudeen/Business_Startup_Analytics/blob/main/Canadian_Childrens_Retail_Market_Analysis.sas).
+The SAS code utilized for data analysis can be accessed by clicking here - [SAS Code](https://github.com/HShamilSamsudeen/Business_Startup_Analytics/blob/main/Canadian_Childrens_Retail_Market_Analysis.sas).
 
-The results have been documented in the results presentation. To access them please click [Canadian_Childrens_Retail_Market_Analysis.pdf](https://github.com/HShamilSamsudeen/Business_Startup_Analytics/blob/main/Canadian%20Children's%20Retail%20Market%20Analysis.pdf).
+The results have been documented in the results presentation. To access them please click - [Canadian_Childrens_Retail_Market_Analysis.pdf](https://github.com/HShamilSamsudeen/Business_Startup_Analytics/blob/main/Canadian%20Children's%20Retail%20Market%20Analysis.pdf).
 
-Data visualizations were created using Tableau. The Tableau workbook can be downloaded here [Canadian_Childrens_Retail_Market_Analysis.twbx](https://github.com/HShamilSamsudeen/Business_Startup_Analytics/blob/main/Canadian_Childrens_Retail_Market_Analysis.twbx).
+Data visualizations were created using Tableau. The Tableau workbook can be downloaded here - [Canadian_Childrens_Retail_Market_Analysis.twbx](https://github.com/HShamilSamsudeen/Business_Startup_Analytics/blob/main/Canadian_Childrens_Retail_Market_Analysis.twbx).
 
 To access the raw output files used for visualizations, please [click here](https://github.com/HShamilSamsudeen/Business_Startup_Analytics/tree/main/output_data).
